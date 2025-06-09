@@ -1,4 +1,4 @@
-# == BACKEND ASSIGNMENT ==
+# == REDIS Pub/Sub using nodeJs & mongoDB ==
 
 # 📦 Receiver & Listener Microservices
 
